@@ -1,0 +1,23 @@
+body {
+	background-image: url("achtergrond3.jpg");
+	background-position: left top ;
+    background-attachment: fixed;
+}
+
+p   {
+	color: white;
+	text-align: center;
+	font-family: Verdana;
+	margin-left: -300px;
+}
+
+h1   {
+	color: lightgreen;
+	margin-left: 200px;
+	font-family: Verdana;
+	font-size: 24;
+}
+
+img {
+float: right;
+}
